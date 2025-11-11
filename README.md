@@ -1,5 +1,8 @@
 # Qr-Code-Generator-Bot
-A Telegram Bot that can generate qr code by providing the URL,Text,Number
+A Telegram Bot that can generate QR Code by URL,Text,Number
+
+
+
 
 
 
