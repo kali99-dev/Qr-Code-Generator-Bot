@@ -1,8 +1,5 @@
 # Qr-Code-Generator-Bot
-A Telegram Bot that can generate qr code by providing the URL,Text,Number.
-
-
-API USE IN THIS BOT : ipinfo.io
+A Telegram Bot that can generate qr code by providing the URL,Text,Number
 
 
 
