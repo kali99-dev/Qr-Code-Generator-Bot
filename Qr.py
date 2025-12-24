@@ -4,7 +4,7 @@ from io import BytesIO
 import re
 
 # Replace with your bot token from @BotFather
-BOT_TOKEN = '7895657453:AAE0sAylCvQJD4WOfZ35Ucz975odzB3voHc'
+BOT_TOKEN = 'YOUR BOT TOKEN'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
